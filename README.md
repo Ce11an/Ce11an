@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ce11an
 - 👀 I’m interested in all things Data Science!
 - ⌨️ I code in Python and R
-- 🌱 I’m currently learning how to build APIs
+- 🌱 I’m currently learning how to build web APIs
 - 📫 How to reach me talk2me@cellanhall.co.uk
 
 <!---

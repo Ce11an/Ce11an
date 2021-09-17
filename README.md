@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Ce11an
-- 👀 I’m interested in all things Data Science!
-- ⌨️ I code in Python and R
-- 🌱 I’m currently learning how to build web APIs
-- 📫 How to reach me talk2me@cellanhall.co.uk
+👋🏻 Hi, my name is Cellan! 
+
+🎓 Cardiff University Alumni: • MSc Data Science and Analytics • BSc Physics with Astronomy
+
+🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales Native, with a passion for all things data!
+
+💻 Currently, I am a data scientist for DE&S. I love NLP and building machine learning models
+
+🏓 Retired International Wheelchair Table Tennis Player
+
+🏔 In my free time, you can find me playing basketball or watching the NBA
+
+🤟🏻Programming Languages: • Python • R • SQL • Learning Rust
 
 <!---
 Ce11an/Ce11an is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

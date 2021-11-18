@@ -10,7 +10,7 @@
 
 🏔 In my free time, you can find me playing basketball or watching the NBA
 
-🤟🏻Programming Languages: • Python • R • SQL • Learning Rust
+🤟🏻Programming Languages: • Python • R • SQL • Learning Vue.js and JavaScript
 
 <!---
 Ce11an/Ce11an is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

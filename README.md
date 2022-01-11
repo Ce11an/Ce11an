@@ -4,7 +4,7 @@
 
 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales Native, with a passion for all things data!
 
-💻 Currently, I am a data scientist for DE&S. I love NLP and building machine learning models
+💻 Currently, I am a data scientist for Huboo
 
 🏓 Retired International Wheelchair Table Tennis Player
 

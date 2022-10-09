@@ -2,7 +2,7 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=89CFF0&lines=I'm+a+Data+Scientist)
 
-![cellanhall](https://road-to-kaggle-grandmaster.vercel.app/api/simple/cellanhall)
+---
 
 👋🏻 Hi, my name is Cellan! 
 
@@ -20,8 +20,16 @@
 
 🤟🏻 Programming Languages: • Python • R • SQL • Learning Vue.js and JavaScript
 
-<br/>
-<br/>
+---
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://twitter.com/ce11an" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ce11an" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cellan-hall/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cellan-hall/" height="30" width="40" /></a>
+<a href="https://instagram.com/ce11an" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ce11an" height="30" width="40" /></a>
+</p>
+
+---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ce11an&theme=vision-friendly-dark)](https://git.io/streak-stats)
 

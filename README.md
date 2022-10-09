@@ -1,3 +1,7 @@
+<h2 align="center">Hi there, I'm Cellan!</h2>
+
+![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=89CFF0&lines=I'm+a+Data+-end+Scientist)
+
 ![cellanhall](https://road-to-kaggle-grandmaster.vercel.app/api/simple/cellanhall)
 
 👋🏻 Hi, my name is Cellan! 

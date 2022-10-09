@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Cellan!</h2>
 
-![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=89CFF0&lines=I'm+a+Data+-end+Scientist)
+![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=89CFF0&lines=I'm+a+Data+Scientist)
 
 ![cellanhall](https://road-to-kaggle-grandmaster.vercel.app/api/simple/cellanhall)
 
@@ -19,8 +19,6 @@
 🏔 In my free time, you can find me playing basketball or watching the NBA
 
 🤟🏻 Programming Languages: • Python • R • SQL • Learning Vue.js and JavaScript
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ce11an&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="ce11an" /></p>
 
 <br/>
 <br/>

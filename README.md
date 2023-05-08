@@ -12,7 +12,7 @@
 
 🏔 In my free time, you can find me playing basketball or watching the NBA
 
-🤟🏻 Programming Languages: • Python • R • SQL • Learning Vue.js and JavaScript
+🤟🏻 Programming Languages: • Python • R • SQL • JavaScript • Learning Rust
 
 ---
 

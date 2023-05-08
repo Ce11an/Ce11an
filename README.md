@@ -1,7 +1,5 @@
 <h2 align="center">Hi there, I'm Cellan! 👋 </h2>
 
-![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=89CFF0&lines=I'm+a+Data+Scientist)
-
 🚀 Open source contributor
 
 🎓 Cardiff University Alumni: • MSc Data Science and Analytics • BSc Physics with Astronomy

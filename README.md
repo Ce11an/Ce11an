@@ -25,10 +25,6 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ce11an&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
----
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ce11an&show_icons=true&theme=tokyonight)
 
 <!---

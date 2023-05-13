@@ -15,6 +15,7 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ce11an&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ce11am&theme=tokyonight)
 
 <!---
 Ce11an/Ce11an is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

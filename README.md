@@ -12,6 +12,8 @@
 
 🤟🏻 Programming Languages: • Python • R • SQL • JavaScript • Learning Rust
 
+👔 Senior MLOps Engineer [@depop](https://github.com/depop) [@cellan-hall-depop](https://github.com/cellan-hall-depop)
+
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ce11an&show_icons=true&theme=tokyonight)

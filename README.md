@@ -1,16 +1,12 @@
 <h2 align="center">Hi there, I'm Cellan! 👋 </h2>
 
-🚀 Open source contributor
-
 🎓 Cardiff University Alumni: • MSc Data Science and Analytics • BSc Physics with Astronomy
-
-🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales Native
 
 🏓 Retired International Wheelchair Table Tennis Player
 
 🏔 In my free time, you can find me playing basketball or watching the NBA
 
-🤟🏻 Programming Languages: • Python • R • SQL • JavaScript • Learning Rust
+🤟🏻 Programming Languages: • Python • R • SQL • JavaScript • Rust
 
 👔 Senior MLOps Engineer [@depop](https://github.com/depop) [@cellan-hall-depop](https://github.com/cellan-hall-depop)
 

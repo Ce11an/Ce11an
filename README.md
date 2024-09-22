@@ -1,28 +1,16 @@
-<h2 align="center">Hi there, I'm Cellan! 👋 </h2>
+<h2 align="center">Hey there 👋</h2>
 
-🎓 Cardiff University Alumni: • MSc Data Science and Analytics • BSc Physics with Astronomy
+👔 **Senior MLOps Engineer**  
+[Depop](https://depop.com) | [@cellan-hall-depop](https://github.com/cellan-hall-depop)
 
-🏓 Retired International Wheelchair Table Tennis Player
+📧 **Contact**: [LinkedIn](https://www.linkedin.com/in/cellan-hall/) | [Email](mailto:hallcellan@gmail.com)
 
-🏔 In my free time, you can find me playing basketball or watching the NBA
+⚙️ **Technologies I Use Daily**: `.py`, `.sh`, `.sql`, `.rs`, `.tf`
 
-🤟🏻 Programming Languages: • Python • R • SQL • JavaScript • Rust
+🦄 **Current Quests**:  
+- ☸️ **Building a Homelab**: Using [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) and [K3s](https://k3s.io/) for streamlined deployment and management for my [homelab](https://github.com/Ce11an/the-shire).  
+- 🔍 **Developing a Parser**: Creating a [tree-sitter parser](https://github.com/Ce11an/tree-sitter-surrealql) and [LSP](https://github.com/Ce11an/surrealql-lsp) for [SurrealQL](https://surrealdb.com/docs/surrealql) to enhance syntax highlighting and code analysis.
 
-👔 Senior MLOps Engineer [@depop](https://github.com/depop) [@cellan-hall-depop](https://github.com/cellan-hall-depop)
+☕ If you have found my work useful, please consider supporting my espresso indulgence with:
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ce11an&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ce11an&theme=tokyonight&layout=compact&card_width=470)
-
----
-
-If you have found my work useful, please consider supporting my espresso indulgence by:
-
-<a href="https://www.buymeacoffee.com/ce11an" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<!---
-Ce11an/Ce11an is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.buymeacoffee.com/ce11an" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 170px !important;" ></a>

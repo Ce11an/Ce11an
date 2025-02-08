@@ -1,9 +1,9 @@
 <h2 align="center">Hey there 👋</h2>
 
-👔 **Senior MLOps Engineer**  
+👔 **MLOps Engineer**  
 [Depop](https://depop.com) | [@cellan-hall-depop](https://github.com/cellan-hall-depop)
 
-📧 **Contact**: [LinkedIn](https://www.linkedin.com/in/cellan-hall/) | [Email](mailto:hallcellan@gmail.com)
+📧 **Contact**: [LinkedIn](https://www.linkedin.com/in/cellan-hall/) | [Email](mailto:me@cellanhall.co.uk)
 
 ⚙️ **Technologies I Use Daily**: `.py`, `.sh`, `.sql`, `.rs`, `.tf`
 
